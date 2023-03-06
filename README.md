@@ -1,4 +1,4 @@
-# Color-Picker.github.io
+# Color-Picker
 Color Picker
 
 # Static Website
